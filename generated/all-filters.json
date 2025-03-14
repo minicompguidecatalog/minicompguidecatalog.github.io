@@ -1,0 +1,5100 @@
+[
+  {
+    "label": "Brand",
+    "field": "brand",
+    "values": [
+      {
+        "label": "AOOSTAR",
+        "value": "AOOSTAR"
+      },
+      {
+        "label": "AceMagic",
+        "value": "AceMagic"
+      },
+      {
+        "label": "OUVIS",
+        "value": "OUVIS"
+      },
+      {
+        "label": "SZBOX",
+        "value": "SZBOX"
+      },
+      {
+        "label": "RINGREAT",
+        "value": "RINGREAT"
+      },
+      {
+        "label": "AceMagician",
+        "value": "AceMagician"
+      },
+      {
+        "label": "Chatreey",
+        "value": "Chatreey"
+      },
+      {
+        "label": "AcePC",
+        "value": "AcePC"
+      },
+      {
+        "label": "Akasa",
+        "value": "Akasa"
+      },
+      {
+        "label": "Alliwava",
+        "value": "Alliwava"
+      },
+      {
+        "label": "Svikou",
+        "value": "Svikou"
+      },
+      {
+        "label": "GenMachine",
+        "value": "GenMachine"
+      },
+      {
+        "label": "Helorpc",
+        "value": "Helorpc"
+      },
+      {
+        "label": "Topton",
+        "value": "Topton"
+      },
+      {
+        "label": "SkyBarium",
+        "value": "SkyBarium"
+      },
+      {
+        "label": "Asrock",
+        "value": "Asrock"
+      },
+      {
+        "label": "Skytech",
+        "value": "Skytech"
+      },
+      {
+        "label": "Asus",
+        "value": "Asus"
+      },
+      {
+        "label": "Asustor",
+        "value": "Asustor"
+      },
+      {
+        "label": "AWOW",
+        "value": "AWOW"
+      },
+      {
+        "label": "Beelink",
+        "value": "Beelink"
+      },
+      {
+        "label": "Momentplus/Beelink",
+        "value": "Momentplus/Beelink"
+      },
+      {
+        "label": "Blackview",
+        "value": "Blackview"
+      },
+      {
+        "label": "Bosgame",
+        "value": "Bosgame"
+      },
+      {
+        "label": "OrigiMagic",
+        "value": "OrigiMagic"
+      },
+      {
+        "label": "Cirrus 7",
+        "value": "Cirrus 7"
+      },
+      {
+        "label": "TOPGRO",
+        "value": "TOPGRO"
+      },
+      {
+        "label": "KingnovyPC",
+        "value": "KingnovyPC"
+      },
+      {
+        "label": "CHATREEY",
+        "value": "CHATREEY"
+      },
+      {
+        "label": "Goodtico",
+        "value": "Goodtico"
+      },
+      {
+        "label": "Chuwi",
+        "value": "Chuwi"
+      },
+      {
+        "label": "CWWK/Topton",
+        "value": "CWWK/Topton"
+      },
+      {
+        "label": "Dell",
+        "value": "Dell"
+      },
+      {
+        "label": "Esus",
+        "value": "Esus"
+      },
+      {
+        "label": "FEVM",
+        "value": "FEVM"
+      },
+      {
+        "label": "SZBox",
+        "value": "SZBox"
+      },
+      {
+        "label": "BOESIIPC",
+        "value": "BOESIIPC"
+      },
+      {
+        "label": "FIREBAT",
+        "value": "FIREBAT"
+      },
+      {
+        "label": "Tian Bei",
+        "value": "Tian Bei"
+      },
+      {
+        "label": "Geekom",
+        "value": "Geekom"
+      },
+      {
+        "label": "Gigabyte",
+        "value": "Gigabyte"
+      },
+      {
+        "label": "GMKtec",
+        "value": "GMKtec"
+      },
+      {
+        "label": "HERK",
+        "value": "HERK"
+      },
+      {
+        "label": "HP",
+        "value": "HP"
+      },
+      {
+        "label": "Intel",
+        "value": "Intel"
+      },
+      {
+        "label": "Kamrui",
+        "value": "Kamrui"
+      },
+      {
+        "label": "Kubuntu Focus",
+        "value": "Kubuntu Focus"
+      },
+      {
+        "label": "Lenovo",
+        "value": "Lenovo"
+      },
+      {
+        "label": "Machenike",
+        "value": "Machenike"
+      },
+      {
+        "label": "Maxtang",
+        "value": "Maxtang"
+      },
+      {
+        "label": "MechRevo",
+        "value": "MechRevo"
+      },
+      {
+        "label": "Minisforum",
+        "value": "Minisforum"
+      },
+      {
+        "label": "Kodlix",
+        "value": "Kodlix"
+      },
+      {
+        "label": "MLOONG",
+        "value": "MLOONG"
+      },
+      {
+        "label": "Morefine",
+        "value": "Morefine"
+      },
+      {
+        "label": "MSI",
+        "value": "MSI"
+      },
+      {
+        "label": "Neosmay",
+        "value": "Neosmay"
+      },
+      {
+        "label": "PAGEPINMU",
+        "value": "PAGEPINMU"
+      },
+      {
+        "label": "Shuttle",
+        "value": "Shuttle"
+      },
+      {
+        "label": "Simply NUC",
+        "value": "Simply NUC"
+      },
+      {
+        "label": "System76",
+        "value": "System76"
+      },
+      {
+        "label": "ThundeRobot",
+        "value": "ThundeRobot"
+      },
+      {
+        "label": "MiniTree/Topton",
+        "value": "MiniTree/Topton"
+      },
+      {
+        "label": "EGLOBAL",
+        "value": "EGLOBAL"
+      },
+      {
+        "label": "VENOEN",
+        "value": "VENOEN"
+      },
+      {
+        "label": "ZOTAC",
+        "value": "ZOTAC"
+      },
+      {
+        "label": "Apple",
+        "value": "Apple"
+      },
+      {
+        "label": "Trigkey",
+        "value": "Trigkey"
+      },
+      {
+        "label": "Framework",
+        "value": "Framework"
+      },
+      {
+        "label": "GPD",
+        "value": "GPD"
+      },
+      {
+        "label": "AYANEO",
+        "value": "AYANEO"
+      },
+      {
+        "label": "Khadas",
+        "value": "Khadas"
+      },
+      {
+        "label": "Libre",
+        "value": "Libre"
+      },
+      {
+        "label": "SOUYO",
+        "value": "SOUYO"
+      },
+      {
+        "label": "Raspberry Pi",
+        "value": "Raspberry Pi"
+      },
+      {
+        "label": "Valve",
+        "value": "Valve"
+      },
+      {
+        "label": "DreamQuest",
+        "value": "DreamQuest"
+      },
+      {
+        "label": "GeekBuying",
+        "value": "GeekBuying"
+      },
+      {
+        "label": "MeLE",
+        "value": "MeLE"
+      },
+      {
+        "label": "Jumper",
+        "value": "Jumper"
+      },
+      {
+        "label": "PELADN",
+        "value": "PELADN"
+      },
+      {
+        "label": "Trycoo",
+        "value": "Trycoo"
+      },
+      {
+        "label": "Bkouen",
+        "value": "Bkouen"
+      },
+      {
+        "label": "Xulu",
+        "value": "Xulu"
+      },
+      {
+        "label": "ZimaBoard",
+        "value": "ZimaBoard"
+      },
+      {
+        "label": "BitNUC",
+        "value": "BitNUC"
+      },
+      {
+        "label": "Corsair",
+        "value": "Corsair"
+      },
+      {
+        "label": "HIGOLEPC",
+        "value": "HIGOLEPC"
+      },
+      {
+        "label": "KOOSMILE",
+        "value": "KOOSMILE"
+      },
+      {
+        "label": "AOC",
+        "value": "AOC"
+      },
+      {
+        "label": "Askhand",
+        "value": "Askhand"
+      },
+      {
+        "label": "ATOPNUC",
+        "value": "ATOPNUC"
+      },
+      {
+        "label": "Azulle",
+        "value": "Azulle"
+      },
+      {
+        "label": "Banana Pi",
+        "value": "Banana Pi"
+      },
+      {
+        "label": "BigTreeTech",
+        "value": "BigTreeTech"
+      },
+      {
+        "label": "Bmax",
+        "value": "Bmax"
+      },
+      {
+        "label": "Sinbun",
+        "value": "Sinbun"
+      },
+      {
+        "label": "Funyet",
+        "value": "Funyet"
+      },
+      {
+        "label": "Mini Tree",
+        "value": "Mini Tree"
+      },
+      {
+        "label": "Kingdel",
+        "value": "Kingdel"
+      },
+      {
+        "label": "Custom_Mod",
+        "value": "Custom_Mod"
+      },
+      {
+        "label": "MiiElAOD",
+        "value": "MiiElAOD"
+      },
+      {
+        "label": "Moginsok/Topton",
+        "value": "Moginsok/Topton"
+      },
+      {
+        "label": "CyberGeekPC",
+        "value": "CyberGeekPC"
+      },
+      {
+        "label": "ECS Elitegroup",
+        "value": "ECS Elitegroup"
+      },
+      {
+        "label": "CoolerMaster",
+        "value": "CoolerMaster"
+      },
+      {
+        "label": "Fujitsu",
+        "value": "Fujitsu"
+      },
+      {
+        "label": "Hot Pepper",
+        "value": "Hot Pepper"
+      },
+      {
+        "label": "iKoolcore",
+        "value": "iKoolcore"
+      },
+      {
+        "label": "OASLOA",
+        "value": "OASLOA"
+      },
+      {
+        "label": "Nipogi",
+        "value": "Nipogi"
+      },
+      {
+        "label": "CTONE",
+        "value": "CTONE"
+      },
+      {
+        "label": "LattePanda",
+        "value": "LattePanda"
+      },
+      {
+        "label": "Metaphyuni",
+        "value": "Metaphyuni"
+      },
+      {
+        "label": "Qualcomm",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "Microsoft",
+        "value": "Microsoft"
+      },
+      {
+        "label": "Wo-We",
+        "value": "Wo-We"
+      },
+      {
+        "label": "ArmSoM",
+        "value": "ArmSoM"
+      },
+      {
+        "label": "iProda",
+        "value": "iProda"
+      },
+      {
+        "label": "MiniProca",
+        "value": "MiniProca"
+      },
+      {
+        "label": "MinixPC",
+        "value": "MinixPC"
+      },
+      {
+        "label": "SIMODEWA",
+        "value": "SIMODEWA"
+      },
+      {
+        "label": "Nvidia",
+        "value": "Nvidia"
+      },
+      {
+        "label": "Odroid",
+        "value": "Odroid"
+      },
+      {
+        "label": "OHBWUP",
+        "value": "OHBWUP"
+      },
+      {
+        "label": "JMZZPC",
+        "value": "JMZZPC"
+      },
+      {
+        "label": "OneXPlayer",
+        "value": "OneXPlayer"
+      },
+      {
+        "label": "Orange Pi",
+        "value": "Orange Pi"
+      },
+      {
+        "label": "Pepper Jobs",
+        "value": "Pepper Jobs"
+      },
+      {
+        "label": "Piesia",
+        "value": "Piesia"
+      },
+      {
+        "label": "PROTECTLI",
+        "value": "PROTECTLI"
+      },
+      {
+        "label": "Radxa",
+        "value": "Radxa"
+      },
+      {
+        "label": "REATAN",
+        "value": "REATAN"
+      },
+      {
+        "label": "Sony",
+        "value": "Sony"
+      },
+      {
+        "label": "SundaePC",
+        "value": "SundaePC"
+      },
+      {
+        "label": "Suevery",
+        "value": "Suevery"
+      },
+      {
+        "label": "Supermicro",
+        "value": "Supermicro"
+      },
+      {
+        "label": "TEXHOO",
+        "value": "TEXHOO"
+      },
+      {
+        "label": "ZXiPC",
+        "value": "ZXiPC"
+      },
+      {
+        "label": "HYSTOU",
+        "value": "HYSTOU"
+      },
+      {
+        "label": "Vnopn",
+        "value": "Vnopn"
+      },
+      {
+        "label": "SJMPC",
+        "value": "SJMPC"
+      },
+      {
+        "label": "SVMIY",
+        "value": "SVMIY"
+      },
+      {
+        "label": "VENOEN/Topton",
+        "value": "VENOEN/Topton"
+      },
+      {
+        "label": "UXX",
+        "value": "UXX"
+      },
+      {
+        "label": "Weikibaba",
+        "value": "Weikibaba"
+      },
+      {
+        "label": "Xiaomi",
+        "value": "Xiaomi"
+      },
+      {
+        "label": "Youyeetoo",
+        "value": "Youyeetoo"
+      },
+      {
+        "label": "Acer",
+        "value": "Acer"
+      },
+      {
+        "label": "Seeed",
+        "value": "Seeed"
+      },
+      {
+        "label": "Histton",
+        "value": "Histton"
+      },
+      {
+        "label": "HYUNDAI",
+        "value": "HYUNDAI"
+      },
+      {
+        "label": "Dot",
+        "value": "Dot"
+      },
+      {
+        "label": "SuperMicro",
+        "value": "SuperMicro"
+      },
+      {
+        "label": "JWIPC",
+        "value": "JWIPC"
+      },
+      {
+        "label": "10ZIG",
+        "value": "10ZIG"
+      },
+      {
+        "label": "COOFUN",
+        "value": "COOFUN"
+      },
+      {
+        "label": "SunKol",
+        "value": "SunKol"
+      },
+      {
+        "label": "Nintendo",
+        "value": "Nintendo"
+      },
+      {
+        "label": "Amazon",
+        "value": "Amazon"
+      },
+      {
+        "label": "DFI",
+        "value": "DFI"
+      },
+      {
+        "label": "Mango",
+        "value": "Mango"
+      },
+      {
+        "label": "NanoPi",
+        "value": "NanoPi"
+      },
+      {
+        "label": "Firefly",
+        "value": "Firefly"
+      },
+      {
+        "label": "WayPonDev",
+        "value": "WayPonDev"
+      },
+      {
+        "label": "Inovata",
+        "value": "Inovata"
+      },
+      {
+        "label": "Onn",
+        "value": "Onn"
+      },
+      {
+        "label": "Google",
+        "value": "Google"
+      },
+      {
+        "label": "IndieDroid",
+        "value": "IndieDroid"
+      },
+      {
+        "label": "AOKZOE",
+        "value": "AOKZOE"
+      },
+      {
+        "label": "Pimax",
+        "value": "Pimax"
+      },
+      {
+        "label": "Miyoo",
+        "value": "Miyoo"
+      },
+      {
+        "label": "Retroid",
+        "value": "Retroid"
+      },
+      {
+        "label": "Anbernic",
+        "value": "Anbernic"
+      },
+      {
+        "label": "One-Netbook",
+        "value": "One-Netbook"
+      }
+    ]
+  },
+  {
+    "label": "Socket",
+    "field": "socket",
+    "values": [
+      {
+        "label": "0",
+        "value": 0
+      },
+      {
+        "label": "AM5",
+        "value": "AM5"
+      },
+      {
+        "label": "LGA1700",
+        "value": "LGA1700"
+      },
+      {
+        "label": "AM4",
+        "value": "AM4"
+      },
+      {
+        "label": "LGA1200",
+        "value": "LGA1200"
+      },
+      {
+        "label": "LGA1151",
+        "value": "LGA1151"
+      }
+    ]
+  },
+  {
+    "label": "CPU Gen",
+    "field": "cpu_gen",
+    "values": [
+      {
+        "label": "1st",
+        "value": "1st"
+      },
+      {
+        "label": "Zen 4",
+        "value": "Zen 4"
+      },
+      {
+        "label": "13th",
+        "value": "13th"
+      },
+      {
+        "label": "Zen 3+",
+        "value": "Zen 3+"
+      },
+      {
+        "label": "12th",
+        "value": "12th"
+      },
+      {
+        "label": "Zen 3",
+        "value": "Zen 3"
+      },
+      {
+        "label": "11th",
+        "value": "11th"
+      },
+      {
+        "label": "Zen 2+",
+        "value": "Zen 2+"
+      },
+      {
+        "label": "Zen 2",
+        "value": "Zen 2"
+      },
+      {
+        "label": "10th",
+        "value": "10th"
+      },
+      {
+        "label": "8th",
+        "value": "8th"
+      },
+      {
+        "label": "Zen 5%",
+        "value": "Zen 5%"
+      },
+      {
+        "label": "14th",
+        "value": "14th"
+      },
+      {
+        "label": "Zen 1+",
+        "value": "Zen 1+"
+      },
+      {
+        "label": "Zen 1",
+        "value": "Zen 1"
+      },
+      {
+        "label": "6th",
+        "value": "6th"
+      },
+      {
+        "label": "2016",
+        "value": 2016
+      },
+      {
+        "label": "9th",
+        "value": "9th"
+      },
+      {
+        "label": "7th",
+        "value": "7th"
+      },
+      {
+        "label": "2015",
+        "value": 2015
+      },
+      {
+        "label": "5th",
+        "value": "5th"
+      },
+      {
+        "label": "4th",
+        "value": "4th"
+      },
+      {
+        "label": "3rd",
+        "value": "3rd"
+      },
+      {
+        "label": "2nd",
+        "value": "2nd"
+      },
+      {
+        "label": "Zen 5",
+        "value": "Zen 5"
+      },
+      {
+        "label": "M4",
+        "value": "M4"
+      },
+      {
+        "label": "M2",
+        "value": "M2"
+      },
+      {
+        "label": "M1",
+        "value": "M1"
+      },
+      {
+        "label": "A72+A53",
+        "value": "A72+A53"
+      },
+      {
+        "label": "A76",
+        "value": "A76"
+      },
+      {
+        "label": "A53",
+        "value": "A53"
+      },
+      {
+        "label": "ARM11",
+        "value": "ARM11"
+      },
+      {
+        "label": "A72",
+        "value": "A72"
+      },
+      {
+        "label": "A7",
+        "value": "A7"
+      },
+      {
+        "label": "Series 2",
+        "value": "Series 2"
+      },
+      {
+        "label": "ATX",
+        "value": "ATX"
+      },
+      {
+        "label": "ITX",
+        "value": "ITX"
+      },
+      {
+        "label": "ARM",
+        "value": "ARM"
+      },
+      {
+        "label": "Core 2",
+        "value": "Core 2"
+      },
+      {
+        "label": "Core",
+        "value": "Core"
+      },
+      {
+        "label": "PowerPC",
+        "value": "PowerPC"
+      },
+      {
+        "label": "2013",
+        "value": 2013
+      },
+      {
+        "label": "CCP",
+        "value": "CCP"
+      },
+      {
+        "label": "x5",
+        "value": "x5"
+      },
+      {
+        "label": "SiFive",
+        "value": "SiFive"
+      },
+      {
+        "label": "A73+M3",
+        "value": "A73+M3"
+      },
+      {
+        "label": "A73+A53",
+        "value": "A73+A53"
+      },
+      {
+        "label": "A55",
+        "value": "A55"
+      },
+      {
+        "label": "A20",
+        "value": "A20"
+      },
+      {
+        "label": "A7/A9",
+        "value": "A7/A9"
+      },
+      {
+        "label": "A76+A55",
+        "value": "A76+A55"
+      },
+      {
+        "label": "A53+A53",
+        "value": "A53+A53"
+      },
+      {
+        "label": "A35",
+        "value": "A35"
+      },
+      {
+        "label": "X5",
+        "value": "X5"
+      },
+      {
+        "label": "2018",
+        "value": 2018
+      },
+      {
+        "label": "2017",
+        "value": 2017
+      },
+      {
+        "label": "2014",
+        "value": 2014
+      },
+      {
+        "label": "X1E",
+        "value": "X1E"
+      },
+      {
+        "label": "Gen 3",
+        "value": "Gen 3"
+      },
+      {
+        "label": "2010",
+        "value": 2010
+      },
+      {
+        "label": "2005",
+        "value": 2005
+      },
+      {
+        "label": "2001",
+        "value": 2001
+      },
+      {
+        "label": "VIA",
+        "value": "VIA"
+      },
+      {
+        "label": "NS",
+        "value": "NS"
+      },
+      {
+        "label": "A78 + A55",
+        "value": "A78 + A55"
+      },
+      {
+        "label": "MTK",
+        "value": "MTK"
+      },
+      {
+        "label": "A78",
+        "value": "A78"
+      },
+      {
+        "label": "UNK",
+        "value": "UNK"
+      },
+      {
+        "label": "A57",
+        "value": "A57"
+      },
+      {
+        "label": "A15+A7",
+        "value": "A15+A7"
+      },
+      {
+        "label": "A5",
+        "value": "A5"
+      },
+      {
+        "label": "2012",
+        "value": 2012
+      },
+      {
+        "label": "2009",
+        "value": 2009
+      },
+      {
+        "label": "2000",
+        "value": 2000
+      },
+      {
+        "label": "1994",
+        "value": 1994
+      },
+      {
+        "label": "2021",
+        "value": 2021
+      },
+      {
+        "label": "2019",
+        "value": 2019
+      },
+      {
+        "label": "2011",
+        "value": 2011
+      },
+      {
+        "label": "2006",
+        "value": 2006
+      },
+      {
+        "label": "2004",
+        "value": 2004
+      },
+      {
+        "label": "1998",
+        "value": 1998
+      },
+      {
+        "label": "1996",
+        "value": 1996
+      },
+      {
+        "label": "1995",
+        "value": 1995
+      },
+      {
+        "label": "1990",
+        "value": 1990
+      },
+      {
+        "label": "1989",
+        "value": 1989
+      },
+      {
+        "label": "1983",
+        "value": 1983
+      },
+      {
+        "label": "1980",
+        "value": 1980
+      },
+      {
+        "label": "1977",
+        "value": 1977
+      },
+      {
+        "label": "Allwinner",
+        "value": "Allwinner"
+      }
+    ]
+  },
+  {
+    "label": "CPU",
+    "field": "cpu",
+    "values": [
+      {
+        "label": "155H",
+        "value": "155H"
+      },
+      {
+        "label": "125H",
+        "value": "125H"
+      },
+      {
+        "label": "8845HS",
+        "value": "8845HS"
+      },
+      {
+        "label": "7940HS",
+        "value": "7940HS"
+      },
+      {
+        "label": "7840HS",
+        "value": "7840HS"
+      },
+      {
+        "label": "13620H",
+        "value": "13620H"
+      },
+      {
+        "label": "6900HX",
+        "value": "6900HX"
+      },
+      {
+        "label": "7735H/6800H",
+        "value": "7735H/6800H"
+      },
+      {
+        "label": "6600H",
+        "value": "6600H"
+      },
+      {
+        "label": "12900H",
+        "value": "12900H"
+      },
+      {
+        "label": "12700H",
+        "value": "12700H"
+      },
+      {
+        "label": "12650H",
+        "value": "12650H"
+      },
+      {
+        "label": "12450H",
+        "value": "12450H"
+      },
+      {
+        "label": "5800H",
+        "value": "5800H"
+      },
+      {
+        "label": "5800U",
+        "value": "5800U"
+      },
+      {
+        "label": "5600U",
+        "value": "5600U"
+      },
+      {
+        "label": "5625U",
+        "value": "5625U"
+      },
+      {
+        "label": "5560U",
+        "value": "5560U"
+      },
+      {
+        "label": "11900H",
+        "value": "11900H"
+      },
+      {
+        "label": "11700B",
+        "value": "11700B"
+      },
+      {
+        "label": "11800H",
+        "value": "11800H"
+      },
+      {
+        "label": "11500B",
+        "value": "11500B"
+      },
+      {
+        "label": "11390H",
+        "value": "11390H"
+      },
+      {
+        "label": "11320H",
+        "value": "11320H"
+      },
+      {
+        "label": "5700U",
+        "value": "5700U"
+      },
+      {
+        "label": "5500U",
+        "value": "5500U"
+      },
+      {
+        "label": "4800U",
+        "value": "4800U"
+      },
+      {
+        "label": "4500U",
+        "value": "4500U"
+      },
+      {
+        "label": "1360P",
+        "value": "1360P"
+      },
+      {
+        "label": "1340P",
+        "value": "1340P"
+      },
+      {
+        "label": "1315U",
+        "value": "1315U"
+      },
+      {
+        "label": "1260P",
+        "value": "1260P"
+      },
+      {
+        "label": "1240P",
+        "value": "1240P"
+      },
+      {
+        "label": "1220P",
+        "value": "1220P"
+      },
+      {
+        "label": "5300U",
+        "value": "5300U"
+      },
+      {
+        "label": "1165G7",
+        "value": "1165G7"
+      },
+      {
+        "label": "1135G7",
+        "value": "1135G7"
+      },
+      {
+        "label": "10710U",
+        "value": "10710U"
+      },
+      {
+        "label": "10210U",
+        "value": "10210U"
+      },
+      {
+        "label": "8559U",
+        "value": "8559U"
+      },
+      {
+        "label": "8259U",
+        "value": "8259U"
+      },
+      {
+        "label": "7735HS/6800H",
+        "value": "7735HS/6800H"
+      },
+      {
+        "label": "5825U",
+        "value": "5825U"
+      },
+      {
+        "label": "N100",
+        "value": "N100"
+      },
+      {
+        "label": "9700X",
+        "value": "9700X"
+      },
+      {
+        "label": "9600X",
+        "value": "9600X"
+      },
+      {
+        "label": "8700G",
+        "value": "8700G"
+      },
+      {
+        "label": "8600G",
+        "value": "8600G"
+      },
+      {
+        "label": "8500G",
+        "value": "8500G"
+      },
+      {
+        "label": "14900",
+        "value": 14900
+      },
+      {
+        "label": "14700",
+        "value": 14700
+      },
+      {
+        "label": "14500",
+        "value": 14500
+      },
+      {
+        "label": "14400",
+        "value": 14400
+      },
+      {
+        "label": "14100",
+        "value": 14100
+      },
+      {
+        "label": "13900T",
+        "value": "13900T"
+      },
+      {
+        "label": "13900",
+        "value": 13900
+      },
+      {
+        "label": "13700",
+        "value": 13700
+      },
+      {
+        "label": "13400",
+        "value": 13400
+      },
+      {
+        "label": "5700G",
+        "value": "5700G"
+      },
+      {
+        "label": "5600G",
+        "value": "5600G"
+      },
+      {
+        "label": "12400",
+        "value": 12400
+      },
+      {
+        "label": "11400",
+        "value": 11400
+      },
+      {
+        "label": "3400GE",
+        "value": "3400GE"
+      },
+      {
+        "label": "8400",
+        "value": 8400
+      },
+      {
+        "label": "8840U/7840U",
+        "value": "8840U/7840U"
+      },
+      {
+        "label": "8640U/7640U",
+        "value": "8640U/7640U"
+      },
+      {
+        "label": "7840U",
+        "value": "7840U"
+      },
+      {
+        "label": "7640U",
+        "value": "7640U"
+      },
+      {
+        "label": "7735U/6850U",
+        "value": "7735U/6850U"
+      },
+      {
+        "label": "7535U/6650U",
+        "value": "7535U/6650U"
+      },
+      {
+        "label": "N97",
+        "value": "N97"
+      },
+      {
+        "label": "5400U",
+        "value": "5400U"
+      },
+      {
+        "label": "1115G4",
+        "value": "1115G4"
+      },
+      {
+        "label": "6305E",
+        "value": "6305E"
+      },
+      {
+        "label": "J6412",
+        "value": "J6412"
+      },
+      {
+        "label": "4300U",
+        "value": "4300U"
+      },
+      {
+        "label": "V2718",
+        "value": "V2718"
+      },
+      {
+        "label": "V2516",
+        "value": "V2516"
+      },
+      {
+        "label": "R2314",
+        "value": "R2314"
+      },
+      {
+        "label": "R2312",
+        "value": "R2312"
+      },
+      {
+        "label": "8665UE",
+        "value": "8665UE"
+      },
+      {
+        "label": "8365UE",
+        "value": "8365UE"
+      },
+      {
+        "label": "8145UE",
+        "value": "8145UE"
+      },
+      {
+        "label": "8265U",
+        "value": "8265U"
+      },
+      {
+        "label": "V1605B",
+        "value": "V1605B"
+      },
+      {
+        "label": "R1606G",
+        "value": "R1606G"
+      },
+      {
+        "label": "R1505G",
+        "value": "R1505G"
+      },
+      {
+        "label": "6100U",
+        "value": "6100U"
+      },
+      {
+        "label": "N3160",
+        "value": "N3160"
+      },
+      {
+        "label": "N3010",
+        "value": "N3010"
+      },
+      {
+        "label": "N3000",
+        "value": "N3000"
+      },
+      {
+        "label": "5700GE",
+        "value": "5700GE"
+      },
+      {
+        "label": "11700",
+        "value": 11700
+      },
+      {
+        "label": "9700",
+        "value": 9700
+      },
+      {
+        "label": "7700",
+        "value": 7700
+      },
+      {
+        "label": "1235U",
+        "value": "1235U"
+      },
+      {
+        "label": "1215U",
+        "value": "1215U"
+      },
+      {
+        "label": "7305",
+        "value": 7305
+      },
+      {
+        "label": "8145U",
+        "value": "8145U"
+      },
+      {
+        "label": "C4205U",
+        "value": "C4205U"
+      },
+      {
+        "label": "185H",
+        "value": "185H"
+      },
+      {
+        "label": "165H",
+        "value": "165H"
+      },
+      {
+        "label": "135H",
+        "value": "135H"
+      },
+      {
+        "label": "100U",
+        "value": "100U"
+      },
+      {
+        "label": "7840H",
+        "value": "7840H"
+      },
+      {
+        "label": "13800H",
+        "value": "13800H"
+      },
+      {
+        "label": "13700H",
+        "value": "13700H"
+      },
+      {
+        "label": "13500H",
+        "value": "13500H"
+      },
+      {
+        "label": "1370P",
+        "value": "1370P"
+      },
+      {
+        "label": "1350P",
+        "value": "1350P"
+      },
+      {
+        "label": "6800H",
+        "value": "6800H"
+      },
+      {
+        "label": "7535H/6600H",
+        "value": "7535H/6600H"
+      },
+      {
+        "label": "7535HS/6600H",
+        "value": "7535HS/6600H"
+      },
+      {
+        "label": "12500H",
+        "value": "12500H"
+      },
+      {
+        "label": "X7425E",
+        "value": "X7425E"
+      },
+      {
+        "label": "X7211E",
+        "value": "X7211E"
+      },
+      {
+        "label": "N50",
+        "value": "N50"
+      },
+      {
+        "label": "N200",
+        "value": "N200"
+      },
+      {
+        "label": "5900HX",
+        "value": "5900HX"
+      },
+      {
+        "label": "5600H",
+        "value": "5600H"
+      },
+      {
+        "label": "7730U/5825U",
+        "value": "7730U/5825U"
+      },
+      {
+        "label": "7530U/5625U",
+        "value": "7530U/5625U"
+      },
+      {
+        "label": "11370H",
+        "value": "11370H"
+      },
+      {
+        "label": "11300H",
+        "value": "11300H"
+      },
+      {
+        "label": "N5105",
+        "value": "N5105"
+      },
+      {
+        "label": "N6000",
+        "value": "N6000"
+      },
+      {
+        "label": "N5100",
+        "value": "N5100"
+      },
+      {
+        "label": "N4500",
+        "value": "N4500"
+      },
+      {
+        "label": "10510U",
+        "value": "10510U"
+      },
+      {
+        "label": "10110U",
+        "value": "10110U"
+      },
+      {
+        "label": "5205U",
+        "value": "5205U"
+      },
+      {
+        "label": "4700U",
+        "value": "4700U"
+      },
+      {
+        "label": "9700T",
+        "value": "9700T"
+      },
+      {
+        "label": "9500T",
+        "value": "9500T"
+      },
+      {
+        "label": "8565U",
+        "value": "8565U"
+      },
+      {
+        "label": "8550U",
+        "value": "8550U"
+      },
+      {
+        "label": "8250U",
+        "value": "8250U"
+      },
+      {
+        "label": "8130U",
+        "value": "8130U"
+      },
+      {
+        "label": "3867U",
+        "value": "3867U"
+      },
+      {
+        "label": "8400T",
+        "value": "8400T"
+      },
+      {
+        "label": "8100T",
+        "value": "8100T"
+      },
+      {
+        "label": "3750H",
+        "value": "3750H"
+      },
+      {
+        "label": "3550H",
+        "value": "3550H"
+      },
+      {
+        "label": "7100U",
+        "value": "7100U"
+      },
+      {
+        "label": "3865U",
+        "value": "3865U"
+      },
+      {
+        "label": "N4100",
+        "value": "N4100"
+      },
+      {
+        "label": "N4000",
+        "value": "N4000"
+      },
+      {
+        "label": "J5005",
+        "value": "J5005"
+      },
+      {
+        "label": "J4005",
+        "value": "J4005"
+      },
+      {
+        "label": "E2-7015",
+        "value": "E2-7015"
+      },
+      {
+        "label": "4900H",
+        "value": "4900H"
+      },
+      {
+        "label": "1035G7",
+        "value": "1035G7"
+      },
+      {
+        "label": "1035G4",
+        "value": "1035G4"
+      },
+      {
+        "label": "3200U",
+        "value": "3200U"
+      },
+      {
+        "label": "8279U",
+        "value": "8279U"
+      },
+      {
+        "label": "8109U",
+        "value": "8109U"
+      },
+      {
+        "label": "11400H",
+        "value": "11400H"
+      },
+      {
+        "label": "1270P",
+        "value": "1270P"
+      },
+      {
+        "label": "1250P",
+        "value": "1250P"
+      },
+      {
+        "label": "13900HK",
+        "value": "13900HK"
+      },
+      {
+        "label": "13900H",
+        "value": "13900H"
+      },
+      {
+        "label": "6560U",
+        "value": "6560U"
+      },
+      {
+        "label": "5257U",
+        "value": "5257U"
+      },
+      {
+        "label": "N305",
+        "value": "N305"
+      },
+      {
+        "label": "14700T",
+        "value": "14700T"
+      },
+      {
+        "label": "14500T",
+        "value": "14500T"
+      },
+      {
+        "label": "14100T",
+        "value": "14100T"
+      },
+      {
+        "label": "14600",
+        "value": 14600
+      },
+      {
+        "label": "13500",
+        "value": 13500
+      },
+      {
+        "label": "13100",
+        "value": 13100
+      },
+      {
+        "label": "13900K",
+        "value": "13900K"
+      },
+      {
+        "label": "13700T",
+        "value": "13700T"
+      },
+      {
+        "label": "13500T",
+        "value": "13500T"
+      },
+      {
+        "label": "13100T",
+        "value": "13100T"
+      },
+      {
+        "label": "12900",
+        "value": 12900
+      },
+      {
+        "label": "12700T",
+        "value": "12700T"
+      },
+      {
+        "label": "12500T",
+        "value": "12500T"
+      },
+      {
+        "label": "12100T",
+        "value": "12100T"
+      },
+      {
+        "label": "10900",
+        "value": 10900
+      },
+      {
+        "label": "10700",
+        "value": 10700
+      },
+      {
+        "label": "10500",
+        "value": 10500
+      },
+      {
+        "label": "W-1250",
+        "value": "W-1250"
+      },
+      {
+        "label": "10900T",
+        "value": "10900T"
+      },
+      {
+        "label": "10500T",
+        "value": "10500T"
+      },
+      {
+        "label": "9100T",
+        "value": "9100T"
+      },
+      {
+        "label": "8700T",
+        "value": "8700T"
+      },
+      {
+        "label": "8500T",
+        "value": "8500T"
+      },
+      {
+        "label": "7600T",
+        "value": "7600T"
+      },
+      {
+        "label": "J4105",
+        "value": "J4105"
+      },
+      {
+        "label": "6700T",
+        "value": "6700T"
+      },
+      {
+        "label": "6500T",
+        "value": "6500T"
+      },
+      {
+        "label": "6400T",
+        "value": "6400T"
+      },
+      {
+        "label": "4570T",
+        "value": "4570T"
+      },
+      {
+        "label": "GX-424",
+        "value": "GX-424"
+      },
+      {
+        "label": "14900KF",
+        "value": "14900KF"
+      },
+      {
+        "label": "14700 KF",
+        "value": "14700 KF"
+      },
+      {
+        "label": "14600KF",
+        "value": "14600KF"
+      },
+      {
+        "label": "8845HS/7840HS",
+        "value": "8845HS/7840HS"
+      },
+      {
+        "label": "12900T",
+        "value": "12900T"
+      },
+      {
+        "label": "12400T",
+        "value": "12400T"
+      },
+      {
+        "label": "10810U",
+        "value": "10810U"
+      },
+      {
+        "label": "1195G7",
+        "value": "1195G7"
+      },
+      {
+        "label": "1155G7",
+        "value": "1155G7"
+      },
+      {
+        "label": "6900HX ES",
+        "value": "6900HX ES"
+      },
+      {
+        "label": "6600H ES",
+        "value": "6600H ES"
+      },
+      {
+        "label": "1255U",
+        "value": "1255U"
+      },
+      {
+        "label": "2700U",
+        "value": "2700U"
+      },
+      {
+        "label": "3150U",
+        "value": "3150U"
+      },
+      {
+        "label": "7335U/6450U",
+        "value": "7335U/6450U"
+      },
+      {
+        "label": "1355U",
+        "value": "1355U"
+      },
+      {
+        "label": "1335U",
+        "value": "1335U"
+      },
+      {
+        "label": "7730U/5850U",
+        "value": "7730U/5850U"
+      },
+      {
+        "label": "7530U/5650U",
+        "value": "7530U/5650U"
+      },
+      {
+        "label": "7330U/5450U",
+        "value": "7330U/5450U"
+      },
+      {
+        "label": "6950H",
+        "value": "6950H"
+      },
+      {
+        "label": "6850H",
+        "value": "6850H"
+      },
+      {
+        "label": "10875H",
+        "value": "10875H"
+      },
+      {
+        "label": "7840HS/8845HS",
+        "value": "7840HS/8845HS"
+      },
+      {
+        "label": "12600T",
+        "value": "12600T"
+      },
+      {
+        "label": "12300T",
+        "value": "12300T"
+      },
+      {
+        "label": "5750GE",
+        "value": "5750GE"
+      },
+      {
+        "label": "5650GE",
+        "value": "5650GE"
+      },
+      {
+        "label": "5350GE",
+        "value": "5350GE"
+      },
+      {
+        "label": "5650G",
+        "value": "5650G"
+      },
+      {
+        "label": "5350G",
+        "value": "5350G"
+      },
+      {
+        "label": "11900T",
+        "value": "11900T"
+      },
+      {
+        "label": "11700T",
+        "value": "11700T"
+      },
+      {
+        "label": "11600T",
+        "value": "11600T"
+      },
+      {
+        "label": "11400T",
+        "value": "11400T"
+      },
+      {
+        "label": "11600",
+        "value": 11600
+      },
+      {
+        "label": "11500",
+        "value": 11500
+      },
+      {
+        "label": "11500T",
+        "value": "11500T"
+      },
+      {
+        "label": "4750G",
+        "value": "4750G"
+      },
+      {
+        "label": "4750GE",
+        "value": "4750GE"
+      },
+      {
+        "label": "4650G",
+        "value": "4650G"
+      },
+      {
+        "label": "4650GE",
+        "value": "4650GE"
+      },
+      {
+        "label": "4350G",
+        "value": "4350G"
+      },
+      {
+        "label": "4350GE",
+        "value": "4350GE"
+      },
+      {
+        "label": "10900K",
+        "value": "10900K"
+      },
+      {
+        "label": "10700T",
+        "value": "10700T"
+      },
+      {
+        "label": "10400T",
+        "value": "10400T"
+      },
+      {
+        "label": "10700K",
+        "value": "10700K"
+      },
+      {
+        "label": "10600K",
+        "value": "10600K"
+      },
+      {
+        "label": "10600",
+        "value": 10600
+      },
+      {
+        "label": "10600T",
+        "value": "10600T"
+      },
+      {
+        "label": "10400",
+        "value": 10400
+      },
+      {
+        "label": "10320",
+        "value": 10320
+      },
+      {
+        "label": "10300",
+        "value": 10300
+      },
+      {
+        "label": "10300T",
+        "value": "10300T"
+      },
+      {
+        "label": "10100",
+        "value": 10100
+      },
+      {
+        "label": "10100T",
+        "value": "10100T"
+      },
+      {
+        "label": "G6600",
+        "value": "G6600"
+      },
+      {
+        "label": "G6500",
+        "value": "G6500"
+      },
+      {
+        "label": "G6500T",
+        "value": "G6500T"
+      },
+      {
+        "label": "G6400",
+        "value": "G6400"
+      },
+      {
+        "label": "G6400T",
+        "value": "G6400T"
+      },
+      {
+        "label": "3200GE",
+        "value": "3200GE"
+      },
+      {
+        "label": "3400G",
+        "value": "3400G"
+      },
+      {
+        "label": "3200G",
+        "value": "3200G"
+      },
+      {
+        "label": "300GE",
+        "value": "300GE"
+      },
+      {
+        "label": "E-2278G",
+        "value": "E-2278G"
+      },
+      {
+        "label": "E-2286G",
+        "value": "E-2286G"
+      },
+      {
+        "label": "E-2276G",
+        "value": "E-2276G"
+      },
+      {
+        "label": "E-2274G",
+        "value": "E-2274G"
+      },
+      {
+        "label": "E-2236G",
+        "value": "E-2236G"
+      },
+      {
+        "label": "E-2244G",
+        "value": "E-2244G"
+      },
+      {
+        "label": "E-2226G",
+        "value": "E-2226G"
+      },
+      {
+        "label": "E-2224G",
+        "value": "E-2224G"
+      },
+      {
+        "label": "9900K",
+        "value": "9900K"
+      },
+      {
+        "label": "9900",
+        "value": 9900
+      },
+      {
+        "label": "9700K",
+        "value": "9700K"
+      },
+      {
+        "label": "9600",
+        "value": 9600
+      },
+      {
+        "label": "9500",
+        "value": 9500
+      },
+      {
+        "label": "9100",
+        "value": 9100
+      },
+      {
+        "label": "9900T",
+        "value": "9900T"
+      },
+      {
+        "label": "9600K",
+        "value": "9600K"
+      },
+      {
+        "label": "9600T",
+        "value": "9600T"
+      },
+      {
+        "label": "9300",
+        "value": 9300
+      },
+      {
+        "label": "9300T",
+        "value": "9300T"
+      },
+      {
+        "label": "G5620",
+        "value": "G5620"
+      },
+      {
+        "label": "G5600",
+        "value": "G5600"
+      },
+      {
+        "label": "G5600T",
+        "value": "G5600T"
+      },
+      {
+        "label": "G5420",
+        "value": "G5420"
+      },
+      {
+        "label": "G5420T",
+        "value": "G5420T"
+      },
+      {
+        "label": "G4930",
+        "value": "G4930"
+      },
+      {
+        "label": "G4930T",
+        "value": "G4930T"
+      },
+      {
+        "label": "2400G",
+        "value": "2400G"
+      },
+      {
+        "label": "2200GE",
+        "value": "2200GE"
+      },
+      {
+        "label": "2400GE",
+        "value": "2400GE"
+      },
+      {
+        "label": "2200G",
+        "value": "2200G"
+      },
+      {
+        "label": "9700E",
+        "value": "9700E"
+      },
+      {
+        "label": "9500E",
+        "value": "9500E"
+      },
+      {
+        "label": "E-2176G",
+        "value": "E-2176G"
+      },
+      {
+        "label": "E-2136G",
+        "value": "E-2136G"
+      },
+      {
+        "label": "E-2174G",
+        "value": "E-2174G"
+      },
+      {
+        "label": "E-2144G",
+        "value": "E-2144G"
+      },
+      {
+        "label": "E-2126G",
+        "value": "E-2126G"
+      },
+      {
+        "label": "E-2124G",
+        "value": "E-2124G"
+      },
+      {
+        "label": "E-2104G",
+        "value": "E-2104G"
+      },
+      {
+        "label": "8700",
+        "value": 8700
+      },
+      {
+        "label": "8600",
+        "value": 8600
+      },
+      {
+        "label": "8500",
+        "value": 8500
+      },
+      {
+        "label": "8100",
+        "value": 8100
+      },
+      {
+        "label": "G5400",
+        "value": "G5400"
+      },
+      {
+        "label": "8700K",
+        "value": "8700K"
+      },
+      {
+        "label": "8600T",
+        "value": "8600T"
+      },
+      {
+        "label": "8600K",
+        "value": "8600K"
+      },
+      {
+        "label": "8300",
+        "value": 8300
+      },
+      {
+        "label": "8300T",
+        "value": "8300T"
+      },
+      {
+        "label": "G5500",
+        "value": "G5500"
+      },
+      {
+        "label": "G5500T",
+        "value": "G5500T"
+      },
+      {
+        "label": "G5400T",
+        "value": "G5400T"
+      },
+      {
+        "label": "G4900",
+        "value": "G4900"
+      },
+      {
+        "label": "G4900T",
+        "value": "G4900T"
+      },
+      {
+        "label": "G4920",
+        "value": "G4920"
+      },
+      {
+        "label": "7700T",
+        "value": "7700T"
+      },
+      {
+        "label": "7600",
+        "value": 7600
+      },
+      {
+        "label": "7500",
+        "value": 7500
+      },
+      {
+        "label": "7500T",
+        "value": "7500T"
+      },
+      {
+        "label": "7320",
+        "value": 7320
+      },
+      {
+        "label": "7300",
+        "value": 7300
+      },
+      {
+        "label": "7300T",
+        "value": "7300T"
+      },
+      {
+        "label": "7100",
+        "value": 7100
+      },
+      {
+        "label": "7100T",
+        "value": "7100T"
+      },
+      {
+        "label": "6700",
+        "value": 6700
+      },
+      {
+        "label": "6600",
+        "value": 6600
+      },
+      {
+        "label": "6600T",
+        "value": "6600T"
+      },
+      {
+        "label": "6500",
+        "value": 6500
+      },
+      {
+        "label": "6100",
+        "value": 6100
+      },
+      {
+        "label": "6100T",
+        "value": "6100T"
+      },
+      {
+        "label": "G4620",
+        "value": "G4620"
+      },
+      {
+        "label": "G4600",
+        "value": "G4600"
+      },
+      {
+        "label": "G4600T",
+        "value": "G4600T"
+      },
+      {
+        "label": "G4560",
+        "value": "G4560"
+      },
+      {
+        "label": "G4560T",
+        "value": "G4560T"
+      },
+      {
+        "label": "G3930",
+        "value": "G3930"
+      },
+      {
+        "label": "G3930T",
+        "value": "G3930T"
+      },
+      {
+        "label": "G3950",
+        "value": "G3950"
+      },
+      {
+        "label": "6320",
+        "value": 6320
+      },
+      {
+        "label": "6300",
+        "value": 6300
+      },
+      {
+        "label": "G4520",
+        "value": "G4520"
+      },
+      {
+        "label": "G4500",
+        "value": "G4500"
+      },
+      {
+        "label": "G4400",
+        "value": "G4400"
+      },
+      {
+        "label": "G3920",
+        "value": "G3920"
+      },
+      {
+        "label": "G3900",
+        "value": "G3900"
+      },
+      {
+        "label": "4590T",
+        "value": "4590T"
+      },
+      {
+        "label": "4765T",
+        "value": "4765T"
+      },
+      {
+        "label": "4130T",
+        "value": "4130T"
+      },
+      {
+        "label": "G3420T",
+        "value": "G3420T"
+      },
+      {
+        "label": "G3220T",
+        "value": "G3220T"
+      },
+      {
+        "label": "G1820T",
+        "value": "G1820T"
+      },
+      {
+        "label": "8809G",
+        "value": "8809G"
+      },
+      {
+        "label": "8705G",
+        "value": "8705G"
+      },
+      {
+        "label": "6770HQ",
+        "value": "6770HQ"
+      },
+      {
+        "label": "1185G7",
+        "value": "1185G7"
+      },
+      {
+        "label": "N6005",
+        "value": "N6005"
+      },
+      {
+        "label": "N4505",
+        "value": "N4505"
+      },
+      {
+        "label": "8121U",
+        "value": "8121U"
+      },
+      {
+        "label": "8665U",
+        "value": "8665U"
+      },
+      {
+        "label": "8365U",
+        "value": "8365U"
+      },
+      {
+        "label": "N3350",
+        "value": "N3350"
+      },
+      {
+        "label": "7567U",
+        "value": "7567U"
+      },
+      {
+        "label": "7260U",
+        "value": "7260U"
+      },
+      {
+        "label": "8650U",
+        "value": "8650U"
+      },
+      {
+        "label": "7300U",
+        "value": "7300U"
+      },
+      {
+        "label": "6260U",
+        "value": "6260U"
+      },
+      {
+        "label": "J3455",
+        "value": "J3455"
+      },
+      {
+        "label": "5557U",
+        "value": "5557U"
+      },
+      {
+        "label": "5250U",
+        "value": "5250U"
+      },
+      {
+        "label": "5010U",
+        "value": "5010U"
+      },
+      {
+        "label": "N3700",
+        "value": "N3700"
+      },
+      {
+        "label": "N3060",
+        "value": "N3060"
+      },
+      {
+        "label": "N3050",
+        "value": "N3050"
+      },
+      {
+        "label": "4250U",
+        "value": "4250U"
+      },
+      {
+        "label": "4010U",
+        "value": "4010U"
+      },
+      {
+        "label": "E3815",
+        "value": "E3815"
+      },
+      {
+        "label": "N2830",
+        "value": "N2830"
+      },
+      {
+        "label": "N2820",
+        "value": "N2820"
+      },
+      {
+        "label": "3427U",
+        "value": "3427U"
+      },
+      {
+        "label": "3217U",
+        "value": "3217U"
+      },
+      {
+        "label": "847",
+        "value": 847
+      },
+      {
+        "label": "11900",
+        "value": 11900
+      },
+      {
+        "label": "G5905T",
+        "value": "G5905T"
+      },
+      {
+        "label": "G5900T",
+        "value": "G5900T"
+      },
+      {
+        "label": "1035G1",
+        "value": "1035G1"
+      },
+      {
+        "label": "3050e",
+        "value": "3050e"
+      },
+      {
+        "label": "4770S",
+        "value": "4770S"
+      },
+      {
+        "label": "4750T",
+        "value": "4750T"
+      },
+      {
+        "label": "3470T",
+        "value": "3470T"
+      },
+      {
+        "label": "3220T",
+        "value": "3220T"
+      },
+      {
+        "label": "13450HX",
+        "value": "13450HX"
+      },
+      {
+        "label": "14900HX",
+        "value": "14900HX"
+      },
+      {
+        "label": "14650HX",
+        "value": "14650HX"
+      },
+      {
+        "label": "8945HS/7940HS",
+        "value": "8945HS/7940HS"
+      },
+      {
+        "label": "5700X",
+        "value": "5700X"
+      },
+      {
+        "label": "HX370",
+        "value": "HX370"
+      },
+      {
+        "label": "9950X",
+        "value": "9950X"
+      },
+      {
+        "label": "9900X",
+        "value": "9900X"
+      },
+      {
+        "label": "7950X",
+        "value": "7950X"
+      },
+      {
+        "label": "7900",
+        "value": 7900
+      },
+      {
+        "label": "8745H/7840HS",
+        "value": "8745H/7840HS"
+      },
+      {
+        "label": "7640HS",
+        "value": "7640HS"
+      },
+      {
+        "label": "12900HK",
+        "value": "12900HK"
+      },
+      {
+        "label": "9700F",
+        "value": "9700F"
+      },
+      {
+        "label": "2500U",
+        "value": "2500U"
+      },
+      {
+        "label": "8945HS",
+        "value": "8945HS"
+      },
+      {
+        "label": "8645HS",
+        "value": "8645HS"
+      },
+      {
+        "label": "6850U",
+        "value": "6850U"
+      },
+      {
+        "label": "6650U",
+        "value": "6650U"
+      },
+      {
+        "label": "6600U",
+        "value": "6600U"
+      },
+      {
+        "label": "6810U",
+        "value": "6810U"
+      },
+      {
+        "label": "12800H",
+        "value": "12800H"
+      },
+      {
+        "label": "12600H",
+        "value": "12600H"
+      },
+      {
+        "label": "5825H",
+        "value": "5825H"
+      },
+      {
+        "label": "1365U",
+        "value": "1365U"
+      },
+      {
+        "label": "1345U",
+        "value": "1345U"
+      },
+      {
+        "label": "150U",
+        "value": "150U"
+      },
+      {
+        "label": "120U",
+        "value": "120U"
+      },
+      {
+        "label": "12700",
+        "value": 12700
+      },
+      {
+        "label": "12100",
+        "value": 12100
+      },
+      {
+        "label": "5300G",
+        "value": "5300G"
+      },
+      {
+        "label": "10105",
+        "value": 10105
+      },
+      {
+        "label": "4800H",
+        "value": "4800H"
+      },
+      {
+        "label": "13900F",
+        "value": "13900F"
+      },
+      {
+        "label": "13700F",
+        "value": "13700F"
+      },
+      {
+        "label": "13400F",
+        "value": "13400F"
+      },
+      {
+        "label": "13100F",
+        "value": "13100F"
+      },
+      {
+        "label": "13600H",
+        "value": "13600H"
+      },
+      {
+        "label": "12900KF",
+        "value": "12900KF"
+      },
+      {
+        "label": "12900F",
+        "value": "12900F"
+      },
+      {
+        "label": "12700F",
+        "value": "12700F"
+      },
+      {
+        "label": "12400F",
+        "value": "12400F"
+      },
+      {
+        "label": "12450H/12500H",
+        "value": "12450H/12500H"
+      },
+      {
+        "label": "10980HK",
+        "value": "10980HK"
+      },
+      {
+        "label": "10870H",
+        "value": "10870H"
+      },
+      {
+        "label": "1360P/1370P",
+        "value": "1360P/1370P"
+      },
+      {
+        "label": "1340P/1350P",
+        "value": "1340P/1350P"
+      },
+      {
+        "label": "1280P",
+        "value": "1280P"
+      },
+      {
+        "label": "1255U/1265U",
+        "value": "1255U/1265U"
+      },
+      {
+        "label": "1240P/1250P",
+        "value": "1240P/1250P"
+      },
+      {
+        "label": "9750H",
+        "value": "9750H"
+      },
+      {
+        "label": "14700HX",
+        "value": "14700HX"
+      },
+      {
+        "label": "13700HX",
+        "value": "13700HX"
+      },
+      {
+        "label": "11850HE",
+        "value": "11850HE"
+      },
+      {
+        "label": "10750H",
+        "value": "10750H"
+      },
+      {
+        "label": "10300H",
+        "value": "10300H"
+      },
+      {
+        "label": "N6415",
+        "value": "N6415"
+      },
+      {
+        "label": "M4 Pro 14",
+        "value": "M4 Pro 14"
+      },
+      {
+        "label": "M4 Pro 12",
+        "value": "M4 Pro 12"
+      },
+      {
+        "label": "M4",
+        "value": "M4"
+      },
+      {
+        "label": "M2 Ultra",
+        "value": "M2 Ultra"
+      },
+      {
+        "label": "M2 Max",
+        "value": "M2 Max"
+      },
+      {
+        "label": "M2 Pro",
+        "value": "M2 Pro"
+      },
+      {
+        "label": "M2",
+        "value": "M2"
+      },
+      {
+        "label": "M1 Ultra",
+        "value": "M1 Ultra"
+      },
+      {
+        "label": "M1 Max",
+        "value": "M1 Max"
+      },
+      {
+        "label": "M1",
+        "value": "M1"
+      },
+      {
+        "label": "8700B",
+        "value": "8700B"
+      },
+      {
+        "label": "8500B",
+        "value": "8500B"
+      },
+      {
+        "label": "8100B",
+        "value": "8100B"
+      },
+      {
+        "label": "4578U",
+        "value": "4578U"
+      },
+      {
+        "label": "4308U",
+        "value": "4308U"
+      },
+      {
+        "label": "4278U",
+        "value": "4278U"
+      },
+      {
+        "label": "4260U",
+        "value": "4260U"
+      },
+      {
+        "label": "3720QM",
+        "value": "3720QM"
+      },
+      {
+        "label": "3615QM",
+        "value": "3615QM"
+      },
+      {
+        "label": "3210M",
+        "value": "3210M"
+      },
+      {
+        "label": "2635QM",
+        "value": "2635QM"
+      },
+      {
+        "label": "2620M",
+        "value": "2620M"
+      },
+      {
+        "label": "2520M",
+        "value": "2520M"
+      },
+      {
+        "label": "2415M",
+        "value": "2415M"
+      },
+      {
+        "label": "5650U",
+        "value": "5650U"
+      },
+      {
+        "label": "13420H",
+        "value": "13420H"
+      },
+      {
+        "label": "7940HX",
+        "value": "7940HX"
+      },
+      {
+        "label": "E-2286M",
+        "value": "E-2286M"
+      },
+      {
+        "label": "9850H",
+        "value": "9850H"
+      },
+      {
+        "label": "9980HK",
+        "value": "9980HK"
+      },
+      {
+        "label": "9300H",
+        "value": "9300H"
+      },
+      {
+        "label": "Z1 Extreme/7840U",
+        "value": "Z1 Extreme/7840U"
+      },
+      {
+        "label": "8840U",
+        "value": "8840U"
+      },
+      {
+        "label": "8640U",
+        "value": "8640U"
+      },
+      {
+        "label": "6800U",
+        "value": "6800U"
+      },
+      {
+        "label": "7540U",
+        "value": "7540U"
+      },
+      {
+        "label": "Z1",
+        "value": "Z1"
+      },
+      {
+        "label": "8745HS/7840HS",
+        "value": "8745HS/7840HS"
+      },
+      {
+        "label": "N95",
+        "value": "N95"
+      },
+      {
+        "label": "5425U",
+        "value": "5425U"
+      },
+      {
+        "label": "J4125",
+        "value": "J4125"
+      },
+      {
+        "label": "N4120",
+        "value": "N4120"
+      },
+      {
+        "label": "RK3399",
+        "value": "RK3399"
+      },
+      {
+        "label": "BCM2712",
+        "value": "BCM2712"
+      },
+      {
+        "label": "RP2040",
+        "value": "RP2040"
+      },
+      {
+        "label": "BCM2710",
+        "value": "BCM2710"
+      },
+      {
+        "label": "BCM2835",
+        "value": "BCM2835"
+      },
+      {
+        "label": "Aerith",
+        "value": "Aerith"
+      },
+      {
+        "label": "8845HS/7840H",
+        "value": "8845HS/7840H"
+      },
+      {
+        "label": "N5095",
+        "value": "N5095"
+      },
+      {
+        "label": "RK3328",
+        "value": "RK3328"
+      },
+      {
+        "label": "S905X",
+        "value": "S905X"
+      },
+      {
+        "label": "S805X",
+        "value": "S805X"
+      },
+      {
+        "label": "H5",
+        "value": "H5"
+      },
+      {
+        "label": "BCM2711",
+        "value": "BCM2711"
+      },
+      {
+        "label": "BCM2837",
+        "value": "BCM2837"
+      },
+      {
+        "label": "BCM2836",
+        "value": "BCM2836"
+      },
+      {
+        "label": "N3450",
+        "value": "N3450"
+      },
+      {
+        "label": "N300",
+        "value": "N300"
+      },
+      {
+        "label": "N6211",
+        "value": "N6211"
+      },
+      {
+        "label": "5600",
+        "value": 5600
+      },
+      {
+        "label": "12100F",
+        "value": "12100F"
+      },
+      {
+        "label": "13700KF",
+        "value": "13700KF"
+      },
+      {
+        "label": "12900K",
+        "value": "12900K"
+      },
+      {
+        "label": "12700K",
+        "value": "12700K"
+      },
+      {
+        "label": "5950X",
+        "value": "5950X"
+      },
+      {
+        "label": "5900X",
+        "value": "5900X"
+      },
+      {
+        "label": "11900K",
+        "value": "11900K"
+      },
+      {
+        "label": "11700K",
+        "value": "11700K"
+      },
+      {
+        "label": "3900X",
+        "value": "3900X"
+      },
+      {
+        "label": "11900KB",
+        "value": "11900KB"
+      },
+      {
+        "label": "13700K",
+        "value": "13700K"
+      },
+      {
+        "label": "13600K",
+        "value": "13600K"
+      },
+      {
+        "label": "7945HX",
+        "value": "7945HX"
+      },
+      {
+        "label": "13900HX",
+        "value": "13900HX"
+      },
+      {
+        "label": "13650H",
+        "value": "13650H"
+      },
+      {
+        "label": "5800X3D",
+        "value": "5800X3D"
+      },
+      {
+        "label": "12700KF",
+        "value": "12700KF"
+      },
+      {
+        "label": "258V",
+        "value": "258V"
+      },
+      {
+        "label": "365",
+        "value": 365
+      },
+      {
+        "label": "P8800",
+        "value": "P8800"
+      },
+      {
+        "label": "P8600",
+        "value": "P8600"
+      },
+      {
+        "label": "P8700",
+        "value": "P8700"
+      },
+      {
+        "label": "P7550",
+        "value": "P7550"
+      },
+      {
+        "label": "P8400",
+        "value": "P8400"
+      },
+      {
+        "label": "P7350",
+        "value": "P7350"
+      },
+      {
+        "label": "T7600",
+        "value": "T7600"
+      },
+      {
+        "label": "T7200",
+        "value": "T7200"
+      },
+      {
+        "label": "T5600",
+        "value": "T5600"
+      },
+      {
+        "label": "T2300",
+        "value": "T2300"
+      },
+      {
+        "label": "T1200",
+        "value": "T1200"
+      },
+      {
+        "label": "7447A",
+        "value": "7447A"
+      },
+      {
+        "label": "4205U",
+        "value": "4205U"
+      },
+      {
+        "label": "288V",
+        "value": "288V"
+      },
+      {
+        "label": "238V",
+        "value": "238V"
+      },
+      {
+        "label": "J1900",
+        "value": "J1900"
+      },
+      {
+        "label": "3250U",
+        "value": "3250U"
+      },
+      {
+        "label": "N4020",
+        "value": "N4020"
+      },
+      {
+        "label": "KX-6540MA",
+        "value": "KX-6540MA"
+      },
+      {
+        "label": "9400",
+        "value": 9400
+      },
+      {
+        "label": "J4115",
+        "value": "J4115"
+      },
+      {
+        "label": "J4025",
+        "value": "J4025"
+      },
+      {
+        "label": "J3355",
+        "value": "J3355"
+      },
+      {
+        "label": "Z8300",
+        "value": "Z8300"
+      },
+      {
+        "label": "Z3735F",
+        "value": "Z3735F"
+      },
+      {
+        "label": "Snapdragon 665",
+        "value": "Snapdragon 665"
+      },
+      {
+        "label": "U74",
+        "value": "U74"
+      },
+      {
+        "label": "VideoSmart VS680",
+        "value": "VideoSmart VS680"
+      },
+      {
+        "label": "A311D/S922X",
+        "value": "A311D/S922X"
+      },
+      {
+        "label": "S905X3",
+        "value": "S905X3"
+      },
+      {
+        "label": "RTD1395",
+        "value": "RTD1395"
+      },
+      {
+        "label": "A64",
+        "value": "A64"
+      },
+      {
+        "label": "H2+/H3",
+        "value": "H2+/H3"
+      },
+      {
+        "label": "H3(Option H2+/H5)",
+        "value": "H3(Option H2+/H5)"
+      },
+      {
+        "label": "H3",
+        "value": "H3"
+      },
+      {
+        "label": "A40I/R40/V40",
+        "value": "A40I/R40/V40"
+      },
+      {
+        "label": "A40i/R40/V40",
+        "value": "A40i/R40/V40"
+      },
+      {
+        "label": "A83T",
+        "value": "A83T"
+      },
+      {
+        "label": "R16/A33",
+        "value": "R16/A33"
+      },
+      {
+        "label": "SP7021",
+        "value": "SP7021"
+      },
+      {
+        "label": "A20",
+        "value": "A20"
+      },
+      {
+        "label": "IMX6",
+        "value": "IMX6"
+      },
+      {
+        "label": "RK3568",
+        "value": "RK3568"
+      },
+      {
+        "label": "A7",
+        "value": "A7"
+      },
+      {
+        "label": "J4205",
+        "value": "J4205"
+      },
+      {
+        "label": "5005U",
+        "value": "5005U"
+      },
+      {
+        "label": "Z8350",
+        "value": "Z8350"
+      },
+      {
+        "label": "H616",
+        "value": "H616"
+      },
+      {
+        "label": "1145G7",
+        "value": "1145G7"
+      },
+      {
+        "label": "1060NG7",
+        "value": "1060NG7"
+      },
+      {
+        "label": "1030NG7",
+        "value": "1030NG7"
+      },
+      {
+        "label": "1000NG4",
+        "value": "1000NG4"
+      },
+      {
+        "label": "N4020C",
+        "value": "N4020C"
+      },
+      {
+        "label": "8260U",
+        "value": "8260U"
+      },
+      {
+        "label": "5405U",
+        "value": "5405U"
+      },
+      {
+        "label": "N3060/J3060",
+        "value": "N3060/J3060"
+      },
+      {
+        "label": "14900T",
+        "value": "14900T"
+      },
+      {
+        "label": "14400T",
+        "value": "14400T"
+      },
+      {
+        "label": "G7400",
+        "value": "G7400"
+      },
+      {
+        "label": "G6900",
+        "value": "G6900"
+      },
+      {
+        "label": "4300G",
+        "value": "4300G"
+      },
+      {
+        "label": "3000G",
+        "value": "3000G"
+      },
+      {
+        "label": "10885H",
+        "value": "10885H"
+      },
+      {
+        "label": "10850H",
+        "value": "10850H"
+      },
+      {
+        "label": "9880HK",
+        "value": "9880HK"
+      },
+      {
+        "label": "9880H",
+        "value": "9880H"
+      },
+      {
+        "label": "8750H",
+        "value": "8750H"
+      },
+      {
+        "label": "1005G1",
+        "value": "1005G1"
+      },
+      {
+        "label": "3750U",
+        "value": "3750U"
+      },
+      {
+        "label": "3700U",
+        "value": "3700U"
+      },
+      {
+        "label": "7800X3D",
+        "value": "7800X3D"
+      },
+      {
+        "label": "7500F",
+        "value": "7500F"
+      },
+      {
+        "label": "U300E",
+        "value": "U300E"
+      },
+      {
+        "label": "U300",
+        "value": "U300"
+      },
+      {
+        "label": "1265U",
+        "value": "1265U"
+      },
+      {
+        "label": "1245U",
+        "value": "1245U"
+      },
+      {
+        "label": "8505U",
+        "value": "8505U"
+      },
+      {
+        "label": "J6413",
+        "value": "J6413"
+      },
+      {
+        "label": "J6426",
+        "value": "J6426"
+      },
+      {
+        "label": "6405U",
+        "value": "6405U"
+      },
+      {
+        "label": "4415U",
+        "value": "4415U"
+      },
+      {
+        "label": "N2490",
+        "value": "N2490"
+      },
+      {
+        "label": "N5095A",
+        "value": "N5095A"
+      },
+      {
+        "label": "12500",
+        "value": 12500
+      },
+      {
+        "label": "GX-415GA",
+        "value": "GX-415GA"
+      },
+      {
+        "label": "N5030",
+        "value": "N5030"
+      },
+      {
+        "label": "7200U",
+        "value": "7200U"
+      },
+      {
+        "label": "3965U",
+        "value": "3965U"
+      },
+      {
+        "label": "N4200",
+        "value": "N4200"
+      },
+      {
+        "label": "G4400T",
+        "value": "G4400T"
+      },
+      {
+        "label": "AMD Sempron 200U",
+        "value": "AMD Sempron 200U"
+      },
+      {
+        "label": "AMD NX1500",
+        "value": "AMD NX1500"
+      },
+      {
+        "label": "Transmeta Crusoe",
+        "value": "Transmeta Crusoe"
+      },
+      {
+        "label": "Via Eden",
+        "value": "Via Eden"
+      },
+      {
+        "label": "Geode GX1",
+        "value": "Geode GX1"
+      },
+      {
+        "label": "VIA Eden ULV",
+        "value": "VIA Eden ULV"
+      },
+      {
+        "label": "Geode LX800",
+        "value": "Geode LX800"
+      },
+      {
+        "label": "7940HS ES",
+        "value": "7940HS ES"
+      },
+      {
+        "label": "7840HS ES",
+        "value": "7840HS ES"
+      },
+      {
+        "label": "2200U",
+        "value": "2200U"
+      },
+      {
+        "label": "V1505",
+        "value": "V1505"
+      },
+      {
+        "label": "7700HQ",
+        "value": "7700HQ"
+      },
+      {
+        "label": "6200U",
+        "value": "6200U"
+      },
+      {
+        "label": "J3160",
+        "value": "J3160"
+      },
+      {
+        "label": "4200U",
+        "value": "4200U"
+      },
+      {
+        "label": "2955U",
+        "value": "2955U"
+      },
+      {
+        "label": "13400T",
+        "value": "13400T"
+      },
+      {
+        "label": "V1756",
+        "value": "V1756"
+      },
+      {
+        "label": "7820HK",
+        "value": "7820HK"
+      },
+      {
+        "label": "300U",
+        "value": "300U"
+      },
+      {
+        "label": "RK3588S",
+        "value": "RK3588S"
+      },
+      {
+        "label": "A311D2",
+        "value": "A311D2"
+      },
+      {
+        "label": "S905D3",
+        "value": "S905D3"
+      },
+      {
+        "label": "S912",
+        "value": "S912"
+      },
+      {
+        "label": "S905Y4",
+        "value": "S905Y4"
+      },
+      {
+        "label": "8100Y",
+        "value": "8100Y"
+      },
+      {
+        "label": "3500U",
+        "value": "3500U"
+      },
+      {
+        "label": "3300U",
+        "value": "3300U"
+      },
+      {
+        "label": "A9-9420e",
+        "value": "A9-9420e"
+      },
+      {
+        "label": "A6-8570E",
+        "value": "A6-8570E"
+      },
+      {
+        "label": "R1305G",
+        "value": "R1305G"
+      },
+      {
+        "label": "3020e",
+        "value": "3020e"
+      },
+      {
+        "label": "X1E-00-1DE",
+        "value": "X1E-00-1DE"
+      },
+      {
+        "label": "SnapDragon 8cx",
+        "value": "SnapDragon 8cx"
+      },
+      {
+        "label": "7820HQ",
+        "value": "7820HQ"
+      },
+      {
+        "label": "6820HQ",
+        "value": "6820HQ"
+      },
+      {
+        "label": "644HQ",
+        "value": "644HQ"
+      },
+      {
+        "label": "Custom/3700X",
+        "value": "Custom/3700X"
+      },
+      {
+        "label": "Jaguar",
+        "value": "Jaguar"
+      },
+      {
+        "label": "Tri-Core Xenon",
+        "value": "Tri-Core Xenon"
+      },
+      {
+        "label": "Pentium 3",
+        "value": "Pentium 3"
+      },
+      {
+        "label": "7745HX",
+        "value": "7745HX"
+      },
+      {
+        "label": "RK3528",
+        "value": "RK3528"
+      },
+      {
+        "label": "N2807",
+        "value": "N2807"
+      },
+      {
+        "label": "G-T48E",
+        "value": "G-T48E"
+      },
+      {
+        "label": "Eden",
+        "value": "Eden"
+      },
+      {
+        "label": "G-T56N",
+        "value": "G-T56N"
+      },
+      {
+        "label": "Z520",
+        "value": "Z520"
+      },
+      {
+        "label": "Sempron",
+        "value": "Sempron"
+      },
+      {
+        "label": "C7-M",
+        "value": "C7-M"
+      },
+      {
+        "label": "GX500",
+        "value": "GX500"
+      },
+      {
+        "label": "Nehemiah",
+        "value": "Nehemiah"
+      },
+      {
+        "label": "Samuel 2",
+        "value": "Samuel 2"
+      },
+      {
+        "label": "GX2",
+        "value": "GX2"
+      },
+      {
+        "label": "GX1",
+        "value": "GX1"
+      },
+      {
+        "label": "GX",
+        "value": "GX"
+      },
+      {
+        "label": "7Y30",
+        "value": "7Y30"
+      },
+      {
+        "label": "3965Y",
+        "value": "3965Y"
+      },
+      {
+        "label": "MTK8176",
+        "value": "MTK8176"
+      },
+      {
+        "label": "Z8750",
+        "value": "Z8750"
+      },
+      {
+        "label": "RK3566",
+        "value": "RK3566"
+      },
+      {
+        "label": "10880H",
+        "value": "10880H"
+      },
+      {
+        "label": "1245UE",
+        "value": "1245UE"
+      },
+      {
+        "label": "Cortex A78AE",
+        "value": "Cortex A78AE"
+      },
+      {
+        "label": "Tegra X1+",
+        "value": "Tegra X1+"
+      },
+      {
+        "label": "Carmel",
+        "value": "Carmel"
+      },
+      {
+        "label": "A57",
+        "value": "A57"
+      },
+      {
+        "label": "Exynos5422",
+        "value": "Exynos5422"
+      },
+      {
+        "label": "A55/S905X3",
+        "value": "A55/S905X3"
+      },
+      {
+        "label": "1250U",
+        "value": "1250U"
+      },
+      {
+        "label": "RK3588",
+        "value": "RK3588"
+      },
+      {
+        "label": "H6",
+        "value": "H6"
+      },
+      {
+        "label": "MT6737",
+        "value": "MT6737"
+      },
+      {
+        "label": "H618",
+        "value": "H618"
+      },
+      {
+        "label": "H2",
+        "value": "H2"
+      },
+      {
+        "label": "MT6572",
+        "value": "MT6572"
+      },
+      {
+        "label": "RDA8810",
+        "value": "RDA8810"
+      },
+      {
+        "label": "SPR2801S",
+        "value": "SPR2801S"
+      },
+      {
+        "label": "J3710",
+        "value": "J3710"
+      },
+      {
+        "label": "J3060",
+        "value": "J3060"
+      },
+      {
+        "label": "7300HQ",
+        "value": "7300HQ"
+      },
+      {
+        "label": "RK3368",
+        "value": "RK3368"
+      },
+      {
+        "label": "1265UE",
+        "value": "1265UE"
+      },
+      {
+        "label": "1185G7E",
+        "value": "1185G7E"
+      },
+      {
+        "label": "1145G7E",
+        "value": "1145G7E"
+      },
+      {
+        "label": "1115G4E",
+        "value": "1115G4E"
+      },
+      {
+        "label": "V2748",
+        "value": "V2748"
+      },
+      {
+        "label": "V2546",
+        "value": "V2546"
+      },
+      {
+        "label": "V1807B",
+        "value": "V1807B"
+      },
+      {
+        "label": "R1102G",
+        "value": "R1102G"
+      },
+      {
+        "label": "J5040",
+        "value": "J5040"
+      },
+      {
+        "label": "Cell",
+        "value": "Cell"
+      },
+      {
+        "label": "MIPS R5900",
+        "value": "MIPS R5900"
+      },
+      {
+        "label": "R3000",
+        "value": "R3000"
+      },
+      {
+        "label": "7900X3D",
+        "value": "7900X3D"
+      },
+      {
+        "label": "7900X",
+        "value": "7900X"
+      },
+      {
+        "label": "7700X",
+        "value": "7700X"
+      },
+      {
+        "label": "4310M",
+        "value": "4310M"
+      },
+      {
+        "label": "14900F",
+        "value": "14900F"
+      },
+      {
+        "label": "14700F",
+        "value": "14700F"
+      },
+      {
+        "label": "9400F",
+        "value": "9400F"
+      },
+      {
+        "label": "9100F",
+        "value": "9100F"
+      },
+      {
+        "label": "5800U/5825U",
+        "value": "5800U/5825U"
+      },
+      {
+        "label": "8709G",
+        "value": "8709G"
+      },
+      {
+        "label": "8305G",
+        "value": "8305G"
+      },
+      {
+        "label": "7100H",
+        "value": "7100H"
+      },
+      {
+        "label": "N3150",
+        "value": "N3150"
+      },
+      {
+        "label": "N2930",
+        "value": "N2930"
+      },
+      {
+        "label": "3770T",
+        "value": "3770T"
+      },
+      {
+        "label": "D2550",
+        "value": "D2550"
+      },
+      {
+        "label": "4590S",
+        "value": "4590S"
+      },
+      {
+        "label": "3330S",
+        "value": "3330S"
+      },
+      {
+        "label": "8140U",
+        "value": "8140U"
+      },
+      {
+        "label": "Snapdragon 7c",
+        "value": "Snapdragon 7c"
+      },
+      {
+        "label": "J3186",
+        "value": "J3186"
+      },
+      {
+        "label": "JH7110",
+        "value": "JH7110"
+      },
+      {
+        "label": "A53/H6",
+        "value": "A53/H6"
+      },
+      {
+        "label": "1130G7",
+        "value": "1130G7"
+      }
+    ]
+  },
+  {
+    "label": "GPU",
+    "field": "gpu",
+    "values": [
+      {
+        "label": "Desktop GPU Slot",
+        "value": "Desktop GPU Slot"
+      },
+      {
+        "label": "Arc 8 Xe (128EU)",
+        "value": "Arc 8 Xe (128EU)"
+      },
+      {
+        "label": "Arc 7 Xe (112EU)",
+        "value": "Arc 7 Xe (112EU)"
+      },
+      {
+        "label": "RDNA3 780M",
+        "value": "RDNA3 780M"
+      },
+      {
+        "label": "Iris Xe 64EU",
+        "value": "Iris Xe 64EU"
+      },
+      {
+        "label": "RDNA2 680M",
+        "value": "RDNA2 680M"
+      },
+      {
+        "label": "RDNA2 660M",
+        "value": "RDNA2 660M"
+      },
+      {
+        "label": "Mobile 3080",
+        "value": "Mobile 3080"
+      },
+      {
+        "label": "Mobile 3070",
+        "value": "Mobile 3070"
+      },
+      {
+        "label": "Mobile 3060",
+        "value": "Mobile 3060"
+      },
+      {
+        "label": "Mobile 4060",
+        "value": "Mobile 4060"
+      },
+      {
+        "label": "Iris Xe 96EU",
+        "value": "Iris Xe 96EU"
+      },
+      {
+        "label": "Intel UHD Xe 48EU",
+        "value": "Intel UHD Xe 48EU"
+      },
+      {
+        "label": "Mobile 6400",
+        "value": "Mobile 6400"
+      },
+      {
+        "label": "Vega 8",
+        "value": "Vega 8"
+      },
+      {
+        "label": "Vega 7",
+        "value": "Vega 7"
+      },
+      {
+        "label": "Vega 6",
+        "value": "Vega 6"
+      },
+      {
+        "label": "Iris Xe 32EU",
+        "value": "Iris Xe 32EU"
+      },
+      {
+        "label": "Intel UHD 750",
+        "value": "Intel UHD 750"
+      },
+      {
+        "label": "Iris Xe 80EU",
+        "value": "Iris Xe 80EU"
+      },
+      {
+        "label": "Intel UHD 620",
+        "value": "Intel UHD 620"
+      },
+      {
+        "label": "Iris Plus 655",
+        "value": "Iris Plus 655"
+      },
+      {
+        "label": "Iris Xe 24EU",
+        "value": "Iris Xe 24EU"
+      },
+      {
+        "label": "Radeon Graphics (Ryzen 9000)",
+        "value": "Radeon Graphics (Ryzen 9000)"
+      },
+      {
+        "label": "RDNA3 760M",
+        "value": "RDNA3 760M"
+      },
+      {
+        "label": "RDNA3 740M",
+        "value": "RDNA3 740M"
+      },
+      {
+        "label": "Intel UHD 770",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "Intel UHD 730",
+        "value": "Intel UHD 730"
+      },
+      {
+        "label": "Vega 11 (Ryzen 3000)",
+        "value": "Vega 11 (Ryzen 3000)"
+      },
+      {
+        "label": "Intel UHD 630",
+        "value": "Intel UHD 630"
+      },
+      {
+        "label": "Iris Xe 48EU",
+        "value": "Iris Xe 48EU"
+      },
+      {
+        "label": "Elkhart Lake 16EU",
+        "value": "Elkhart Lake 16EU"
+      },
+      {
+        "label": "Vega 5",
+        "value": "Vega 5"
+      },
+      {
+        "label": "Vega 3",
+        "value": "Vega 3"
+      },
+      {
+        "label": "Intel HD 520",
+        "value": "Intel HD 520"
+      },
+      {
+        "label": "Intel HD",
+        "value": "Intel HD"
+      },
+      {
+        "label": "Intel HD 630",
+        "value": "Intel HD 630"
+      },
+      {
+        "label": "Intel UHD",
+        "value": "Intel UHD"
+      },
+      {
+        "label": "Mobile 4070",
+        "value": "Mobile 4070"
+      },
+      {
+        "label": "Iris Xe 16EU",
+        "value": "Iris Xe 16EU"
+      },
+      {
+        "label": "Jasper Lake 32EU",
+        "value": "Jasper Lake 32EU"
+      },
+      {
+        "label": "Jasper Lake 24EU",
+        "value": "Jasper Lake 24EU"
+      },
+      {
+        "label": "Jasper Lake 16EU",
+        "value": "Jasper Lake 16EU"
+      },
+      {
+        "label": "Intel UHD 610",
+        "value": "Intel UHD 610"
+      },
+      {
+        "label": "Intel HD 610",
+        "value": "Intel HD 610"
+      },
+      {
+        "label": "Vega 10",
+        "value": "Vega 10"
+      },
+      {
+        "label": "Vega 8 (Ryzen 3000)",
+        "value": "Vega 8 (Ryzen 3000)"
+      },
+      {
+        "label": "Intel HD 620",
+        "value": "Intel HD 620"
+      },
+      {
+        "label": "Intel UHD 600",
+        "value": "Intel UHD 600"
+      },
+      {
+        "label": "Intel UHD 605",
+        "value": "Intel UHD 605"
+      },
+      {
+        "label": "AMD HD Graphics R2",
+        "value": "AMD HD Graphics R2"
+      },
+      {
+        "label": "Iris Plus 940",
+        "value": "Iris Plus 940"
+      },
+      {
+        "label": "7600M XT",
+        "value": "7600M XT"
+      },
+      {
+        "label": "Mobile 4050",
+        "value": "Mobile 4050"
+      },
+      {
+        "label": "Mobile 3050 Ti",
+        "value": "Mobile 3050 Ti"
+      },
+      {
+        "label": "Mobile 3050",
+        "value": "Mobile 3050"
+      },
+      {
+        "label": "Iris Graphics 540",
+        "value": "Iris Graphics 540"
+      },
+      {
+        "label": "Iris 6100",
+        "value": "Iris 6100"
+      },
+      {
+        "label": "4000 Ada",
+        "value": "4000 Ada"
+      },
+      {
+        "label": "2000 Ada",
+        "value": "2000 Ada"
+      },
+      {
+        "label": "T1000",
+        "value": "T1000"
+      },
+      {
+        "label": "T400",
+        "value": "T400"
+      },
+      {
+        "label": "A2000",
+        "value": "A2000"
+      },
+      {
+        "label": "1650",
+        "value": 1650
+      },
+      {
+        "label": "6400",
+        "value": 6400
+      },
+      {
+        "label": "A380",
+        "value": "A380"
+      },
+      {
+        "label": "Intel UHD P630",
+        "value": "Intel UHD P630"
+      },
+      {
+        "label": "Radeon 9173",
+        "value": "Radeon 9173"
+      },
+      {
+        "label": "Intel HD 530",
+        "value": "Intel HD 530"
+      },
+      {
+        "label": "Intel HD 4600",
+        "value": "Intel HD 4600"
+      },
+      {
+        "label": "Radeon R5E",
+        "value": "Radeon R5E"
+      },
+      {
+        "label": "Mobile 4090",
+        "value": "Mobile 4090"
+      },
+      {
+        "label": "6600M",
+        "value": "6600M"
+      },
+      {
+        "label": "550M",
+        "value": "550M"
+      },
+      {
+        "label": "Mobile 1660 Ti",
+        "value": "Mobile 1660 Ti"
+      },
+      {
+        "label": "Mobile 560X",
+        "value": "Mobile 560X"
+      },
+      {
+        "label": "P1000",
+        "value": "P1000"
+      },
+      {
+        "label": "P600",
+        "value": "P600"
+      },
+      {
+        "label": "WX3200",
+        "value": "WX3200"
+      },
+      {
+        "label": "WX4150",
+        "value": "WX4150"
+      },
+      {
+        "label": "Mobile 560",
+        "value": "Mobile 560"
+      },
+      {
+        "label": "Vega 11 (Ryzen 2000)",
+        "value": "Vega 11 (Ryzen 2000)"
+      },
+      {
+        "label": "Vega 8 (Ryzen 2000)",
+        "value": "Vega 8 (Ryzen 2000)"
+      },
+      {
+        "label": "AMD Radeon Graphics",
+        "value": "AMD Radeon Graphics"
+      },
+      {
+        "label": "Intel HD 510",
+        "value": "Intel HD 510"
+      },
+      {
+        "label": "A770M",
+        "value": "A770M"
+      },
+      {
+        "label": "Mobile 2060",
+        "value": "Mobile 2060"
+      },
+      {
+        "label": "Vega M GH",
+        "value": "Vega M GH"
+      },
+      {
+        "label": "Vega M GL",
+        "value": "Vega M GL"
+      },
+      {
+        "label": "Iris Pro 580",
+        "value": "Iris Pro 580"
+      },
+      {
+        "label": "AMD Radeon 540",
+        "value": "AMD Radeon 540"
+      },
+      {
+        "label": "Intel HD 500",
+        "value": "Intel HD 500"
+      },
+      {
+        "label": "Iris Plus 650",
+        "value": "Iris Plus 650"
+      },
+      {
+        "label": "Iris Plus 640",
+        "value": "Iris Plus 640"
+      },
+      {
+        "label": "Intel HD 6000",
+        "value": "Intel HD 6000"
+      },
+      {
+        "label": "Intel HD 5500",
+        "value": "Intel HD 5500"
+      },
+      {
+        "label": "Intel HD 16EU",
+        "value": "Intel HD 16EU"
+      },
+      {
+        "label": "Intel HD 12EU",
+        "value": "Intel HD 12EU"
+      },
+      {
+        "label": "Intel HD 5000",
+        "value": "Intel HD 5000"
+      },
+      {
+        "label": "Intel HD 4400",
+        "value": "Intel HD 4400"
+      },
+      {
+        "label": "HD Graphics",
+        "value": "HD Graphics"
+      },
+      {
+        "label": "Intel HD 4000",
+        "value": "Intel HD 4000"
+      },
+      {
+        "label": "HD 2000",
+        "value": "HD 2000"
+      },
+      {
+        "label": "A5000",
+        "value": "A5000"
+      },
+      {
+        "label": "Mobile 460 4GB",
+        "value": "Mobile 460 4GB"
+      },
+      {
+        "label": "Intel HD 2500",
+        "value": "Intel HD 2500"
+      },
+      {
+        "label": "7900XTX",
+        "value": "7900XTX"
+      },
+      {
+        "label": "7800XT",
+        "value": "7800XT"
+      },
+      {
+        "label": "6700XT",
+        "value": "6700XT"
+      },
+      {
+        "label": "A730M",
+        "value": "A730M"
+      },
+      {
+        "label": "RDNA3.5 890M",
+        "value": "RDNA3.5 890M"
+      },
+      {
+        "label": "RDNA2 610M",
+        "value": "RDNA2 610M"
+      },
+      {
+        "label": "Mobile 1050 Ti",
+        "value": "Mobile 1050 Ti"
+      },
+      {
+        "label": "4070 GDDR6X",
+        "value": "4070 GDDR6X"
+      },
+      {
+        "label": "4060 Ti",
+        "value": "4060 Ti"
+      },
+      {
+        "label": "4060",
+        "value": 4060
+      },
+      {
+        "label": "3050 8GB",
+        "value": "3050 8GB"
+      },
+      {
+        "label": "3070 (Low VRAM)",
+        "value": "3070 (Low VRAM)"
+      },
+      {
+        "label": "3060",
+        "value": 3060
+      },
+      {
+        "label": "1660 Super",
+        "value": "1660 Super"
+      },
+      {
+        "label": "2060",
+        "value": 2060
+      },
+      {
+        "label": "Mobile 1060",
+        "value": "Mobile 1060"
+      },
+      {
+        "label": "MX450",
+        "value": "MX450"
+      },
+      {
+        "label": "A4500",
+        "value": "A4500"
+      },
+      {
+        "label": "Mobile 2070",
+        "value": "Mobile 2070"
+      },
+      {
+        "label": "Mobile 1070",
+        "value": "Mobile 1070"
+      },
+      {
+        "label": "Mobile 3500",
+        "value": "Mobile 3500"
+      },
+      {
+        "label": "Mobile 2080 Super",
+        "value": "Mobile 2080 Super"
+      },
+      {
+        "label": "Mobile 2070 Super",
+        "value": "Mobile 2070 Super"
+      },
+      {
+        "label": "Quadro RTX 3000",
+        "value": "Quadro RTX 3000"
+      },
+      {
+        "label": "Quadro P3000",
+        "value": "Quadro P3000"
+      },
+      {
+        "label": "M4 Pro 20-core",
+        "value": "M4 Pro 20-core"
+      },
+      {
+        "label": "M4 Pro 16-core",
+        "value": "M4 Pro 16-core"
+      },
+      {
+        "label": "M4 10-core",
+        "value": "M4 10-core"
+      },
+      {
+        "label": "M2 Ultra 76-core",
+        "value": "M2 Ultra 76-core"
+      },
+      {
+        "label": "M2 Ultra 60-core",
+        "value": "M2 Ultra 60-core"
+      },
+      {
+        "label": "M2 Max 38-core",
+        "value": "M2 Max 38-core"
+      },
+      {
+        "label": "M2 Max 30-core",
+        "value": "M2 Max 30-core"
+      },
+      {
+        "label": "M2 Pro 19-core",
+        "value": "M2 Pro 19-core"
+      },
+      {
+        "label": "M2 Pro 16-core",
+        "value": "M2 Pro 16-core"
+      },
+      {
+        "label": "M2 10-core",
+        "value": "M2 10-core"
+      },
+      {
+        "label": "M1 Ultra 64-core",
+        "value": "M1 Ultra 64-core"
+      },
+      {
+        "label": "M1 Ultra 48-core",
+        "value": "M1 Ultra 48-core"
+      },
+      {
+        "label": "M1 Max 32-core",
+        "value": "M1 Max 32-core"
+      },
+      {
+        "label": "M1 Max 24-core",
+        "value": "M1 Max 24-core"
+      },
+      {
+        "label": "M1 8-core",
+        "value": "M1 8-core"
+      },
+      {
+        "label": "Iris 5100",
+        "value": "Iris 5100"
+      },
+      {
+        "label": "Intel HD 3000",
+        "value": "Intel HD 3000"
+      },
+      {
+        "label": "Radeon HD 6630M/HD 3000",
+        "value": "Radeon HD 6630M/HD 3000"
+      },
+      {
+        "label": "3050 6GB",
+        "value": "3050 6GB"
+      },
+      {
+        "label": "6650M",
+        "value": "6650M"
+      },
+      {
+        "label": "4000",
+        "value": 4000
+      },
+      {
+        "label": "7700S",
+        "value": "7700S"
+      },
+      {
+        "label": "Mali T860 MP4",
+        "value": "Mali T860 MP4"
+      },
+      {
+        "label": "VideoCore VII",
+        "value": "VideoCore VII"
+      },
+      {
+        "label": "VideoCore IV",
+        "value": "VideoCore IV"
+      },
+      {
+        "label": "RDNA2 Van Gogh",
+        "value": "RDNA2 Van Gogh"
+      },
+      {
+        "label": "Mali 450 MP2",
+        "value": "Mali 450 MP2"
+      },
+      {
+        "label": "Mali 450 MP3",
+        "value": "Mali 450 MP3"
+      },
+      {
+        "label": "Mali 450 MP4",
+        "value": "Mali 450 MP4"
+      },
+      {
+        "label": "VideoCore VI",
+        "value": "VideoCore VI"
+      },
+      {
+        "label": "6600XT",
+        "value": "6600XT"
+      },
+      {
+        "label": "Radeon Graphics (Ryzen 7000)",
+        "value": "Radeon Graphics (Ryzen 7000)"
+      },
+      {
+        "label": "6600",
+        "value": 6600
+      },
+      {
+        "label": "580",
+        "value": 580
+      },
+      {
+        "label": "1650 Super",
+        "value": "1650 Super"
+      },
+      {
+        "label": "P4000",
+        "value": "P4000"
+      },
+      {
+        "label": "4090",
+        "value": 4090
+      },
+      {
+        "label": "4080 Super",
+        "value": "4080 Super"
+      },
+      {
+        "label": "3080",
+        "value": 3080
+      },
+      {
+        "label": "3080 Ti",
+        "value": "3080 Ti"
+      },
+      {
+        "label": "2080 Ti",
+        "value": "2080 Ti"
+      },
+      {
+        "label": "2080 Super",
+        "value": "2080 Super"
+      },
+      {
+        "label": "A750",
+        "value": "A750"
+      },
+      {
+        "label": "4070 Super",
+        "value": "4070 Super"
+      },
+      {
+        "label": "7700XT",
+        "value": "7700XT"
+      },
+      {
+        "label": "6800XT",
+        "value": "6800XT"
+      },
+      {
+        "label": "3070 (low VRAM)",
+        "value": "3070 (low VRAM)"
+      },
+      {
+        "label": "Arc 140V 8 Xe2",
+        "value": "Arc 140V 8 Xe2"
+      },
+      {
+        "label": "RDNA3.5 880M",
+        "value": "RDNA3.5 880M"
+      },
+      {
+        "label": "6650XT",
+        "value": "6650XT"
+      },
+      {
+        "label": "GeForce 320M",
+        "value": "GeForce 320M"
+      },
+      {
+        "label": "GeForce 9400M 256MB",
+        "value": "GeForce 9400M 256MB"
+      },
+      {
+        "label": "GeForce 9400M 128MB",
+        "value": "GeForce 9400M 128MB"
+      },
+      {
+        "label": "Intel GMA 950 64MB",
+        "value": "Intel GMA 950 64MB"
+      },
+      {
+        "label": "Radeon 9200 64MB",
+        "value": "Radeon 9200 64MB"
+      },
+      {
+        "label": "Radeon 9200 32MB",
+        "value": "Radeon 9200 32MB"
+      },
+      {
+        "label": "Arc 130V 7 Xe2",
+        "value": "Arc 130V 7 Xe2"
+      },
+      {
+        "label": "1060",
+        "value": 1060
+      },
+      {
+        "label": "Intel HD Z3700",
+        "value": "Intel HD Z3700"
+      },
+      {
+        "label": "Radeon R5",
+        "value": "Radeon R5"
+      },
+      {
+        "label": "Qualcomm SM6125",
+        "value": "Qualcomm SM6125"
+      },
+      {
+        "label": "Imagination BX-4-32",
+        "value": "Imagination BX-4-32"
+      },
+      {
+        "label": "Imagination GE9920",
+        "value": "Imagination GE9920"
+      },
+      {
+        "label": "Mali G52 MP4",
+        "value": "Mali G52 MP4"
+      },
+      {
+        "label": "Mali G31 MP2",
+        "value": "Mali G31 MP2"
+      },
+      {
+        "label": "Mali 470 MP4",
+        "value": "Mali 470 MP4"
+      },
+      {
+        "label": "Mali 400 MP2",
+        "value": "Mali 400 MP2"
+      },
+      {
+        "label": "PowerVR SGX544 MP1",
+        "value": "PowerVR SGX544 MP1"
+      },
+      {
+        "label": "UNK",
+        "value": "UNK"
+      },
+      {
+        "label": "Intel HD 505",
+        "value": "Intel HD 505"
+      },
+      {
+        "label": "Intel HD 400",
+        "value": "Intel HD 400"
+      },
+      {
+        "label": "Iris Plus Ice Lake 64EU",
+        "value": "Iris Plus Ice Lake 64EU"
+      },
+      {
+        "label": "Iris Plus Ice Lake 48EU",
+        "value": "Iris Plus Ice Lake 48EU"
+      },
+      {
+        "label": "Intel UHD 710",
+        "value": "Intel UHD 710"
+      },
+      {
+        "label": "Mobile 1650 Ti",
+        "value": "Mobile 1650 Ti"
+      },
+      {
+        "label": "Mobile 1650",
+        "value": "Mobile 1650"
+      },
+      {
+        "label": "Mobile 1050",
+        "value": "Mobile 1050"
+      },
+      {
+        "label": "2080",
+        "value": 2080
+      },
+      {
+        "label": "6750XT",
+        "value": "6750XT"
+      },
+      {
+        "label": "Elkhart Lake 32EU",
+        "value": "Elkhart Lake 32EU"
+      },
+      {
+        "label": "Mobile 1080",
+        "value": "Mobile 1080"
+      },
+      {
+        "label": "Mali G610 MP4",
+        "value": "Mali G610 MP4"
+      },
+      {
+        "label": "Mali G52 MP8 (8EE)",
+        "value": "Mali G52 MP8 (8EE)"
+      },
+      {
+        "label": "Mali T820 MP3",
+        "value": "Mali T820 MP3"
+      },
+      {
+        "label": "Intel UHD 615",
+        "value": "Intel UHD 615"
+      },
+      {
+        "label": "A5500",
+        "value": "A5500"
+      },
+      {
+        "label": "Qualcomm Adreno",
+        "value": "Qualcomm Adreno"
+      },
+      {
+        "label": "980M",
+        "value": "980M"
+      },
+      {
+        "label": "965M",
+        "value": "965M"
+      },
+      {
+        "label": "RDNA2 Scarlet",
+        "value": "RDNA2 Scarlet"
+      },
+      {
+        "label": "RDNA2 Lockhart",
+        "value": "RDNA2 Lockhart"
+      },
+      {
+        "label": "Scorpio",
+        "value": "Scorpio"
+      },
+      {
+        "label": "Durango 2",
+        "value": "Durango 2"
+      },
+      {
+        "label": "Durango",
+        "value": "Durango"
+      },
+      {
+        "label": "ATI Xenos Xenon",
+        "value": "ATI Xenos Xenon"
+      },
+      {
+        "label": "NV2A",
+        "value": "NV2A"
+      },
+      {
+        "label": "HD 6320",
+        "value": "HD 6320"
+      },
+      {
+        "label": "Intel HD 615",
+        "value": "Intel HD 615"
+      },
+      {
+        "label": "PowerVR GX6250",
+        "value": "PowerVR GX6250"
+      },
+      {
+        "label": "Mali G52 MP2 (2EE)",
+        "value": "Mali G52 MP2 (2EE)"
+      },
+      {
+        "label": "275 TOPS",
+        "value": "275 TOPS"
+      },
+      {
+        "label": "248 TOPS",
+        "value": "248 TOPS"
+      },
+      {
+        "label": "200 TOPS",
+        "value": "200 TOPS"
+      },
+      {
+        "label": "100 TOPS",
+        "value": "100 TOPS"
+      },
+      {
+        "label": "70 TOPS",
+        "value": "70 TOPS"
+      },
+      {
+        "label": "40 TOPS",
+        "value": "40 TOPS"
+      },
+      {
+        "label": "20 TOPS",
+        "value": "20 TOPS"
+      },
+      {
+        "label": "Volta",
+        "value": "Volta"
+      },
+      {
+        "label": "Maxwell",
+        "value": "Maxwell"
+      },
+      {
+        "label": "Mali T628 MP6",
+        "value": "Mali T628 MP6"
+      },
+      {
+        "label": "Mali G610 MC4",
+        "value": "Mali G610 MC4"
+      },
+      {
+        "label": "Mali T720 MP2",
+        "value": "Mali T720 MP2"
+      },
+      {
+        "label": "Mali 400 MP1",
+        "value": "Mali 400 MP1"
+      },
+      {
+        "label": "Vivante's GC860",
+        "value": "Vivante's GC860"
+      },
+      {
+        "label": "Intel HD 405",
+        "value": "Intel HD 405"
+      },
+      {
+        "label": "Vega 11",
+        "value": "Vega 11"
+      },
+      {
+        "label": "RDNA2 Oberon",
+        "value": "RDNA2 Oberon"
+      },
+      {
+        "label": "Neo",
+        "value": "Neo"
+      },
+      {
+        "label": "Liverpool",
+        "value": "Liverpool"
+      },
+      {
+        "label": "RSX",
+        "value": "RSX"
+      },
+      {
+        "label": "GS",
+        "value": "GS"
+      },
+      {
+        "label": "EE+GS",
+        "value": "EE+GS"
+      },
+      {
+        "label": "GTE",
+        "value": "GTE"
+      },
+      {
+        "label": "7600",
+        "value": 7600
+      },
+      {
+        "label": "6600M?",
+        "value": "6600M?"
+      },
+      {
+        "label": "6500XT",
+        "value": "6500XT"
+      },
+      {
+        "label": "2060 Super",
+        "value": "2060 Super"
+      },
+      {
+        "label": "Quadro P1000",
+        "value": "Quadro P1000"
+      },
+      {
+        "label": "1050 Ti",
+        "value": "1050 Ti"
+      },
+      {
+        "label": "GT610",
+        "value": "GT610"
+      },
+      {
+        "label": "4 Core Mali G610 MP4",
+        "value": "4 Core Mali G610 MP4"
+      }
+    ]
+  }
+]
